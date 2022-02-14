@@ -54,4 +54,12 @@ li
 {
   display:flex;
 	justify-content: space-between;
+
+
+}
+
+.list-inline-item
+{
+	align-items: flex-end;
+
 }
